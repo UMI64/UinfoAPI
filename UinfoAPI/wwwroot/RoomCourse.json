@@ -1,0 +1,320 @@
+﻿{
+  "Rooms": [
+    {
+      "Number": "6A-101",
+      "Course": [
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周二第5,6节{第1-12周}",
+          "CourseName": "拖拉机伪装",
+          "CourseNum": 2333333333,
+          "CourseChange": "无"
+        }
+      ]
+    },
+    {
+      "Number": "6A-102",
+      "Course": [
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周一第3,4节{第1-1周|单周}",
+          "CourseName": "拖拉机原理",
+          "CourseNum": 233333,
+          "CourseChange": "周1第3节连续2节{第2-9周}/6A-101多媒体95座/刘清友/周1第3节连续2节{第2-9周}/6B-107多媒体286座/刘清友"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周五第1,2节{第4-14周}",
+          "CourseName": "拖拉机拆装与维护",
+          "CourseNum": 23333,
+          "CourseChange": "无"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周四第3,4节{第1-12周}",
+          "CourseName": "拖拉机发动机技术",
+          "CourseNum": 2333,
+          "CourseChange": "无"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周三第3,4节{第10-14周}",
+          "CourseName": "拖拉机通信",
+          "CourseNum": 233,
+          "CourseChange": "无"
+        }
+      ]
+    },
+    {
+      "Number": "6A-103",
+      "Course": [
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周一第3,4节{第1-1周|单周}",
+          "CourseName": "拖拉机原理",
+          "CourseNum": 233333,
+          "CourseChange": "周1第3节连续2节{第2-9周}/6A-101多媒体95座/刘清友/周1第3节连续2节{第2-9周}/6B-107多媒体286座/刘清友"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周五第1,2节{第4-14周}",
+          "CourseName": "拖拉机拆装与维护",
+          "CourseNum": 23333,
+          "CourseChange": "无"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周四第3,4节{第1-12周}",
+          "CourseName": "拖拉机发动机技术",
+          "CourseNum": 2333,
+          "CourseChange": "无"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周三第3,4节{第10-14周}",
+          "CourseName": "拖拉机通信",
+          "CourseNum": 233,
+          "CourseChange": "无"
+        }
+      ]
+    },
+    {
+      "Number": "6A-104",
+      "Course": [
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周一第3,4节{第1-1周|单周}",
+          "CourseName": "拖拉机原理",
+          "CourseNum": 233333,
+          "CourseChange": "周1第3节连续2节{第2-9周}/6A-101多媒体95座/刘清友/周1第3节连续2节{第2-9周}/6B-107多媒体286座/刘清友"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周五第1,2节{第4-14周}",
+          "CourseName": "拖拉机拆装与维护",
+          "CourseNum": 23333,
+          "CourseChange": "无"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周四第3,4节{第1-12周}",
+          "CourseName": "拖拉机发动机技术",
+          "CourseNum": 2333,
+          "CourseChange": "无"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周三第3,4节{第10-14周}",
+          "CourseName": "拖拉机通信",
+          "CourseNum": 233,
+          "CourseChange": "无"
+        }
+      ]
+    },
+    {
+      "Number": "6A-105",
+      "Course": [
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周一第3,4节{第1-1周|单周}",
+          "CourseName": "拖拉机原理",
+          "CourseNum": 233333,
+          "CourseChange": "周1第3节连续2节{第2-9周}/6A-101多媒体95座/刘清友/周1第3节连续2节{第2-9周}/6B-107多媒体286座/刘清友"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周五第1,2节{第4-14周}",
+          "CourseName": "拖拉机拆装与维护",
+          "CourseNum": 23333,
+          "CourseChange": "无"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周四第3,4节{第1-12周}",
+          "CourseName": "拖拉机发动机技术",
+          "CourseNum": 2333,
+          "CourseChange": "无"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周三第3,4节{第10-14周}",
+          "CourseName": "拖拉机通信",
+          "CourseNum": 233,
+          "CourseChange": "无"
+        }
+      ]
+    },
+    {
+      "Number": "6A-106",
+      "Course": [
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周一第3,4节{第1-1周|单周}",
+          "CourseName": "拖拉机原理",
+          "CourseNum": 233333,
+          "CourseChange": "周1第3节连续2节{第2-9周}/6A-101多媒体95座/刘清友/周1第3节连续2节{第2-9周}/6B-107多媒体286座/刘清友"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周五第1,2节{第4-14周}",
+          "CourseName": "拖拉机拆装与维护",
+          "CourseNum": 23333,
+          "CourseChange": "无"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周四第3,4节{第1-12周}",
+          "CourseName": "拖拉机发动机技术",
+          "CourseNum": 2333,
+          "CourseChange": "无"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周三第3,4节{第10-14周}",
+          "CourseName": "拖拉机通信",
+          "CourseNum": 233,
+          "CourseChange": "无"
+        }
+      ]
+    },
+    {
+      "Number": "6A-107",
+      "Course": [
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周一第3,4节{第1-1周|单周}",
+          "CourseName": "拖拉机原理",
+          "CourseNum": 233333,
+          "CourseChange": "周1第3节连续2节{第2-9周}/6A-101多媒体95座/刘清友/周1第3节连续2节{第2-9周}/6B-107多媒体286座/刘清友"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周五第1,2节{第4-14周}",
+          "CourseName": "拖拉机拆装与维护",
+          "CourseNum": 23333,
+          "CourseChange": "无"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周四第3,4节{第1-12周}",
+          "CourseName": "拖拉机发动机技术",
+          "CourseNum": 2333,
+          "CourseChange": "无"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周三第3,4节{第10-14周}",
+          "CourseName": "拖拉机通信",
+          "CourseNum": 233,
+          "CourseChange": "无"
+        }
+      ]
+    },
+    {
+      "Number": "6A-108",
+      "Course": [
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周一第3,4节{第1-1周|单周}",
+          "CourseName": "拖拉机原理",
+          "CourseNum": 233333,
+          "CourseChange": "周1第3节连续2节{第2-9周}/6A-101多媒体95座/刘清友/周1第3节连续2节{第2-9周}/6B-107多媒体286座/刘清友"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周五第1,2节{第4-14周}",
+          "CourseName": "拖拉机拆装与维护",
+          "CourseNum": 23333,
+          "CourseChange": "无"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周四第3,4节{第1-12周}",
+          "CourseName": "拖拉机发动机技术",
+          "CourseNum": 2333,
+          "CourseChange": "无"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周三第3,4节{第10-14周}",
+          "CourseName": "拖拉机通信",
+          "CourseNum": 233,
+          "CourseChange": "无"
+        }
+      ]
+    },
+    {
+      "Number": "6A-109",
+      "Course": [
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周一第3,4节{第1-1周|单周}",
+          "CourseName": "拖拉机原理",
+          "CourseNum": 233333,
+          "CourseChange": "周1第3节连续2节{第2-9周}/6A-101多媒体95座/刘清友/周1第3节连续2节{第2-9周}/6B-107多媒体286座/刘清友"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周五第1,2节{第4-14周}",
+          "CourseName": "拖拉机拆装与维护",
+          "CourseNum": 23333,
+          "CourseChange": "无"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周四第3,4节{第1-12周}",
+          "CourseName": "拖拉机发动机技术",
+          "CourseNum": 2333,
+          "CourseChange": "无"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周三第3,4节{第10-14周}",
+          "CourseName": "拖拉机通信",
+          "CourseNum": 233,
+          "CourseChange": "无"
+        }
+      ]
+    },
+    {
+      "Number": "6A-110",
+      "Course": [
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周一第3,4节{第1-1周|单周}",
+          "CourseName": "拖拉机原理",
+          "CourseNum": 233333,
+          "CourseChange": "周1第3节连续2节{第2-9周}/6A-101多媒体95座/刘清友/周1第3节连续2节{第2-9周}/6B-107多媒体286座/刘清友"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周五第1,2节{第4-14周}",
+          "CourseName": "拖拉机拆装与维护",
+          "CourseNum": 23333,
+          "CourseChange": "无"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周四第3,4节{第1-12周}",
+          "CourseName": "拖拉机发动机技术",
+          "CourseNum": 2333,
+          "CourseChange": "无"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周三第3,4节{第10-14周}",
+          "CourseName": "拖拉机通信",
+          "CourseNum": 233,
+          "CourseChange": "无"
+        },
+        {
+          "CourseTeacher": "刘清友",
+          "CourseTime": "周日第5,6,7,8节{第1-14周}",
+          "CourseName": "爆鸡蔢车历史",
+          "CourseNum": 233,
+          "CourseChange": "无"
+        }
+      ]
+    }
+  ]
+}
